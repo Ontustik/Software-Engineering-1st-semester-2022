@@ -39,3 +39,6 @@
 		0[x] = k;
 	}
 	printf("%3d\n", x[0]);
+
+# Ответы: 
+U2FsdGVkX1/+O6fiZI9P8PIHVj9NpHUbJAvyYNBJqGG7tgIUHek7W6IyTjYzFmPe
