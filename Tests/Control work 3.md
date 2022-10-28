@@ -28,3 +28,7 @@
        printf("i = %d", i);
        printf("j = %d", j);
      }
+
+# Ответы:
+U2FsdGVkX1/OODOtgVrRJt5Knr+CpUHyUDgbxNsniISB0/Ig5eGtOGabSVyfL032
+DQyeS4lUhVhq6sa90s9ccA==
